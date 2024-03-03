@@ -1,7 +1,7 @@
 # Heart Attack Analysis & Prediction Dataset
 
 **Project subject: Analysis of the influence of different factors on the incidence of heart disease.**
-
+ 
 **Purpose of statistical analysis:**
 - to investigate the relationship between various characteristics and the occurrence of heart disease,
 - to identify relevant risk and protective factors,
